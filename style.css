@@ -1,0 +1,53 @@
+.jack{
+    background-color:#b2ebea;
+    font-size: 2rem;
+    word-spacing: 1rem;
+  
+}
+.jack a{
+    text-decoration: none;
+}
+.jack1{
+    display: grid;
+    grid-template-columns: auto auto ;
+    text-align: center;
+    background-color:#b38183;
+}
+button{
+    font-size: 1.50rem;
+    background-color:#6d8ac2;
+    border-radius: 12%;
+}
+.jack2{
+    word-spacing: 15rem;
+    text-align: center;
+    background-color: #babfdb;
+}
+.jaki{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+   
+}
+.jaki i{
+    font-size: 4rem;
+    border-radius: 50%;
+    background-color:#dde2ed;
+    padding: 40px;
+}
+.jack6{
+    padding-left: 100PX;
+    
+}
+.jack7{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+footer{
+    font-size: 2rem;
+    padding-left: 150vh;
+}
+
+
+
+
